@@ -16,7 +16,12 @@
 - Conducted insightful exploratory data analysis on procurement and occupancy data, aiding clients in efficiently managing their commodity inventory, leading to improved cost management strategies.
 - Identified optimal timing for targeted sales campaigns and maximized revenue generation by translating complex data patterns into clear recommendations, fostering data-driven decision-making. 
 
-**Software Developer Intern @ Hubun Transport**
+**Software Developer Intern @ Hubun Transport (_July 2019 - August 2019_)**
+- Created an interactive map feature for a ride-sharing company, allowing users to input and store personalized
+addresses in a database. This functionality was seamlessly integrated into a web application.
+- Enhanced technical skills in Angular, front-end development, and database integration while delivering innovative
+solutions to improve the ride-sharing app's user experience. 
+
 
 ### Skills & Certifications
 -PL-300
