@@ -33,3 +33,5 @@ solutions to improve the ride-sharing app's user experience.
 - MySQL for Data Analytics and Business Intelligence
 - Machine Learning with Python – IBM
 
+## Projects
+**[Spotify Data Analysis & Visualization](https://github.com/shlokverma/Spotify-Data-Project)**
