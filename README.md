@@ -1,12 +1,8 @@
 # Data Analyst
 
 #### Techincal Skills: Python, SQL, PowerBI, Excel
-
-## Education
-- BASc in Chemical & Biological Engineering | The University of British Columbia (_May 2021_)
-
 ## Work Experience
-**Associate @ Infosys (_July 2021 - September 2023 | CA_)**
+**Associate @ Infosys (_July 2021 - September 2023_)**
 - Enhanced data integrity by automating tests and swiftly resolving data issues in a Fortune 500 dashboard project.
 - Optimized testing procedures through automation, resulting in significant time and resource savings.
 - Solved complex database challenges using advanced SQL queries, minimizing defects and streamlined processes for releases.
@@ -22,7 +18,6 @@ addresses in a database. This functionality was seamlessly integrated into a web
 - Enhanced technical skills in Angular, front-end development, and database integration while delivering innovative
 solutions to improve the ride-sharing app's user experience. 
 
-
-### Skills & Certifications
--PL-300
+## Education & Certifications
+- BASc in Chemical & Biological Engineering | The University of British Columbia (_May 2021_)
 
