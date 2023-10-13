@@ -25,7 +25,7 @@ addresses in a database. This functionality was seamlessly integrated into a web
 solutions to improve the ride-sharing app's user experience. 
 
 ## Education & Certifications
-- BASc in Chemical & Biological Engineering | The University of British Columbia (_May 2021_)
+- BASc in Chemical & Biological Engineering - The University of British Columbia (_May 2021_)
 - PL-300: Microsoft Power BI Data Analyst Candidate
 - MySQL for Data Analytics and Business Intelligence
 - Machine Learning with Python – IBM
