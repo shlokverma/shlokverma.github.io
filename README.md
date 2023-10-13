@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Techincal Skills: Python, SQL, PowerBI, Excel
+#### Techincal Skills: Python, SQL, PowerBI, Excel, 
 ## Work Experience
 **Associate @ Infosys (_July 2021 - September 2023_)**
 
