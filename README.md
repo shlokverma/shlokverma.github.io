@@ -25,7 +25,10 @@ addresses in a database. This functionality was seamlessly integrated into a web
 solutions to improve the ride-sharing app's user experience. 
 
 ## Education & Certifications
-- BASc in Chemical & Biological Engineering - The University of British Columbia (_May 2021_)
+- BASc in Chemical & Biological Engineering - The University of British Columbia (_September 2017 - May 2021_)
+  - Vice President External - UBC Envision
+  - Circuitry Lead - UBC Chem-E-Car
+  - Instrumentation - UBC BioT (Brewing Internet of Things)
 - PL-300: Microsoft Power BI Data Analyst Candidate
 - MySQL for Data Analytics and Business Intelligence
 - Machine Learning with Python – IBM
